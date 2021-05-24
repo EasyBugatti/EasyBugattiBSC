@@ -1,0 +1,6 @@
+.img-full {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  line-height: 0 !important;
+}
